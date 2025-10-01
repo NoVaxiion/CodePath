@@ -40,9 +40,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-### https://imgur.com/a/Pv3d29w
 
-<img src='https://imgur.com/a/Pv3d29w' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+https://github.com/user-attachments/assets/de61d9e1-ed5a-4b74-be90-36504fb1657b
+
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 
