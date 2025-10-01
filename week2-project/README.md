@@ -1,10 +1,10 @@
 # Web Development Project 2 - _Name of App Here_
 
-Submitted by: **Your Name Here**
+Submitted by: Kenneth Maeda
 
-This web app: **insert description**
+This web app: The Fruit Card Guesser
 
-Time spent: **X** hours spent in total
+Time spent: 3 hours
 
 ## Required Features
 
@@ -48,7 +48,7 @@ https://github.com/user-attachments/assets/de61d9e1-ed5a-4b74-be90-36504fb1657b
 
 <!-- Replace this with whatever GIF tool you used! -->
 
-GIF created with ...
+GIF created with imgur
 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
