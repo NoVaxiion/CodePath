@@ -1,0 +1,49 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+  color: white;
+  font-size: 70px;
+  background-color: #a9e2e4;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+.VendorsGrid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* 3 per row */
+  gap: 2rem; /* spacing between cards */
+  margin-top: 2rem;
+}
+
+.VendorCard {
+  background: white;
+  border-radius: 15px;
+  text-align: center;
+  width: 250px;
+  font-size: 25px;
+  color: black;
+  
+}
+
+.VendorCard img {
+  width: 100%; /* fills card width */
+  height: 200px; /* fixed height */
+  object-fit: cover; /* crops instead of stretching */
+  border-radius: 10px; /* rounded corners */
+  margin-bottom: 0.5rem;
+}
+
+.VendorCulture {
+  margin: 0;
+  font-size: 16px;
+  color: #555;
+}
