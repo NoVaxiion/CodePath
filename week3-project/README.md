@@ -1,5 +1,4 @@
-# Web Development Project 3 - *Name of App Here*
-
+# Web Development Project 3 - The Fruit Card Guesser Part II
 Submitted by: Kenneth Maeda
 
 This web app: The Fruit Card Guesser Part II
