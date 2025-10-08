@@ -47,10 +47,11 @@ Here's a walkthrough of implemented user stories:
 
 
 
+https://github.com/user-attachments/assets/eb20dffe-db2b-469b-bfb2-057e691fe29c
 
 
 
-<img src='https://imgur.com/a/XVZhIVJ' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Imgur  
