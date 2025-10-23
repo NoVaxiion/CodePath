@@ -10,10 +10,10 @@ export default function App() {
 
   // Ban object by attribute
   const [ban, setBan] = useState({
-    name: [], // breed name (e.g., "Exotic Shorthair")
-    weight: [], // e.g., "7 - 14 lbs"
-    origin: [], // e.g., "United States"
-    life_span: [], // e.g., "12 - 15"
+    name: [],
+    weight: [],
+    origin: [],
+    life_span: [],
   });
 
   // Build endpoint
@@ -75,12 +75,12 @@ export default function App() {
         const candidate = {
           url: item.url,
           id: item.id,
-          name: breed.name, // breed name
-          origin: breed.origin, // origin
-          temperament: breed.temperament, // display only
-          description: breed.description, // optional display
-          life_span: breed.life_span, // e.g., "12 - 15"
-          weight: `${breed.weight?.imperial ?? ""} lbs`, // e.g., "7 - 14 lbs"
+          name: breed.name,
+          origin: breed.origin,
+          temperament: breed.temperament,
+          description: breed.description,
+          life_span: breed.life_span,
+          weight: `${breed.weight?.imperial ?? ""} lbs`,
           short_legs: Boolean(breed.short_legs),
           indoor: Boolean(breed.indoor),
         };
@@ -163,7 +163,6 @@ export default function App() {
               </button>
             </div>
 
-            {/* Optional extra line */}
             <p className="meta">
               <span className="meta__label">Temperament:</span>
               <span>{cat.temperament}</span>
