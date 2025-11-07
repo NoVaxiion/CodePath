@@ -1,0 +1,87 @@
+/* ---- Base layout (center the card, keep light theme) ---- */
+html,
+body {
+  height: 100%;
+}
+body {
+  min-height: 100vh;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #f4f6f8;
+  color: #222;
+  font-family: system-ui, sans-serif;
+}
+
+.page {
+  width: min(900px, 92vw);
+  padding: 1rem 1.5rem;
+  background: #fff;
+  border-radius: 1rem;
+  box-shadow: 0 0 10px #0001;
+}
+
+h1 {
+  text-align: center;
+  margin: 0 0 1rem;
+}
+
+.controls {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1.25rem;
+  width: 100%;
+}
+.controls input {
+  flex: 0 1 auto;
+  width: clamp(320px, 60%, 560px);
+  padding: 0.6rem 1rem;
+  font-size: 1rem;
+  border-radius: 0.5rem;
+  border: 1px solid #ccc;
+}
+.controls select {
+  padding: 0.6rem 1rem;
+  font-size: 1rem;
+  border-radius: 0.5rem;
+  border: 1px solid #ccc;
+}
+
+.stats {
+  display: flex;
+  justify-content: space-around;
+  background: #eef3f8;
+  border-radius: 0.5rem;
+  padding: 0.75rem;
+  margin-bottom: 1rem;
+}
+
+.table {
+  max-height: 500px;
+  overflow-y: auto;
+  border-top: 2px solid #ccc;
+}
+.row {
+  display: grid;
+  grid-template-columns: 2fr 1fr 1fr 1fr 1fr;
+  padding: 0.5rem 0;
+  border-bottom: 1px solid #eee;
+}
+.header {
+  font-weight: 700;
+  background: #e9edf2;
+  position: sticky;
+  top: 0;
+}
+
+.note,
+.error {
+  text-align: center;
+  padding: 2rem;
+}
+.error {
+  color: crimson;
+}
