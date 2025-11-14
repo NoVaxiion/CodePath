@@ -47,6 +47,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+
+https://github.com/user-attachments/assets/dabed53d-2551-4fdf-bd9e-1a709ecfd2e7
+
+
 GIF created with imgur
 
 ## Notes
