@@ -1,3 +1,5 @@
+Vercal (URL to page): https://community-post-one.vercel.app/
+
 # Web Development Final Project - *Community Post*
 
 Submitted by: **Kenneth Maeda**
