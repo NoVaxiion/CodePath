@@ -1,0 +1,94 @@
+/* Base layout */
+html,
+body,
+#root {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  width: 100%;
+}
+
+body {
+  background-color: rgb(213, 245, 255);
+}
+
+/* Home Page Layout */
+.home-container {
+  min-height: calc(100vh - 60px);
+  display: flex; /* you forgot this */
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+/* Hero banner */
+.home-card-a {
+  width: 100%;
+  padding: 100px 20px;
+  background: linear-gradient(135deg, #6a11cb, #2575fc);
+  color: white;
+  text-align: center;
+  margin: 0 auto 60px auto;
+}
+
+/* FIXED: Missing dot */
+.home-button {
+  background: #ffffff;
+  color: blueviolet;
+  padding: 10px 24px;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.home-h1 {
+  margin-bottom: 10px;
+}
+
+/* ----- CREATE POST PAGE ----- */
+
+.create-page {
+  display: flex;
+  justify-content: center;
+  padding: 60px 0;
+}
+
+/* White Card Wrapper */
+.home-card-post {
+  width: 100%;
+  max-width: 900px;
+  background: #ffffff;
+  padding: 40px 50px;
+  border-radius: 16px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+  text-align: left;
+}
+
+/* Each input section */
+.form-section {
+  margin-bottom: 20px;
+}
+
+/* Text inputs + textarea */
+.input-box,
+.textarea-box {
+  width: 100%;
+  padding: 12px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  font-size: 16px;
+  margin-top: 8px;
+  background: #ffffff;
+  color: #111;
+}
+
+.textarea-box {
+  height: 120px;
+  resize: vertical;
+}
+
+.button {
+  float: right;
+  margin-right: 5px;
+}
