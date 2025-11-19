@@ -57,6 +57,8 @@ body {
   flex-direction: column;
   padding: 20px;
   animation: fadeIn 0.6s ease-out;
+  max-width: 100%;
+  box-sizing: border-box;
 }
 
 @keyframes fadeIn {
@@ -73,6 +75,7 @@ body {
 /* Hero banner */
 .home-card-a {
   width: 100%;
+  max-width: 100%;
   padding: 80px 40px;
   background: var(--primary-gradient);
   color: white;
@@ -83,6 +86,7 @@ body {
   position: relative;
   overflow: hidden;
   animation: slideDown 0.8s cubic-bezier(0.34, 1.56, 0.64, 1);
+  box-sizing: border-box;
 }
 
 @keyframes slideDown {
@@ -211,6 +215,7 @@ body {
   margin-bottom: 40px;
   border: 1px solid rgba(255, 255, 255, 0.6);
   transition: var(--transition-smooth);
+  box-sizing: border-box;
 }
 
 .home-card-post:hover {
@@ -521,6 +526,7 @@ body {
   box-shadow: var(--card-shadow);
   border: 1px solid rgba(255, 255, 255, 0.6);
   animation: slideUp 0.6s cubic-bezier(0.34, 1.56, 0.64, 1);
+  box-sizing: border-box;
 }
 
 @keyframes slideUp {
