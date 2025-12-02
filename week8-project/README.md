@@ -49,6 +49,10 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with imgur
 
+
+https://github.com/user-attachments/assets/65c99098-0533-48f3-9184-91c45e142cc2
+
+
 ## Notes
 
 Describe any challenges encountered while building the app.
