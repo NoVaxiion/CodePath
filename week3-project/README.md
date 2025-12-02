@@ -1,4 +1,4 @@
-# Web Development Project 3 - The Fruit Card Guesser Part II
+# Web Development Project 3 - [The Fruit Card Guesser Part II] (https://fruit-guesser.vercel.app/)
 Submitted by: Kenneth Maeda
 
 This web app: The Fruit Card Guesser Part II
