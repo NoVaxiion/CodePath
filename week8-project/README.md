@@ -1,4 +1,4 @@
-# Web Development Project 7 -  [Crewmates](https://amoung-us-xi.vercel.app/)
+# Web Development Project 7 -  [Crewmates](https://amoung-us-i.vercel.app/)
 
 
 Submitted by: **Kenneth Maeda**
