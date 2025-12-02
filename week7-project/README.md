@@ -1,4 +1,4 @@
-# Web Development Project 6 – [Stamford Hourly Weather](https://weather-app-git-main-novaxiions-projects.vercel.app/)
+# Web Development Project 6 – [Stamford Hourly Weather Part II](https://weather-app-git-main-novaxiions-projects.vercel.app/)
 
 
 Submitted by: **Kenneth Maeda**
