@@ -1,10 +1,10 @@
-# Web Development Project 1 - _Name of App Here_
+# Web Development Project 1 - [Food and Desert Vendors](https://code-path-7h6i.vercel.app/)
 
 Submitted by: **Your Name Here**
 
-This web app: **insert description**
+This web app: **Food and Desert Vendors**
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
@@ -52,7 +52,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Kenneth Maeda]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
