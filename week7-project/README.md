@@ -1,4 +1,4 @@
-# Web Development Project 6 – [Stamford Hourly Weather](https://code-path-xeciq0k0v-novaxiions-projects.vercel.app/)
+# Web Development Project 6 – [Stamford Hourly Weather](https://weather-app-git-main-novaxiions-projects.vercel.app/)
 
 
 Submitted by: **Kenneth Maeda**
